@@ -1,0 +1,1 @@
+{"name":"v3ctr0r-portfolio","private":true,"type":"module","scripts":{"dev":"node local.mjs","start":"node local.mjs","build":"python3 build.py"},"engines":{"node":">=22"}}
